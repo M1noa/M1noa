@@ -1,5 +1,5 @@
 ## Minoa
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A passionate developer from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1noa&label=Profile%20views&color=0eb46c&style=flat" alt="m1noa" /> </p>
 
