@@ -1,6 +1,6 @@
 ## Minoa
 <p align="center">
-<h3 align="center">T3x@s</h3>
+<h3 align="center">1 good girl is worth 1000 bitches...BOUND! - Kanye West</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1noa&label=Profile%20views&color=0eb46c&style=flat" alt="m1noa" /> </p>
 
