@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **minoa@parcoil.com**
 
-- 🤓 Professional Kanye Nerd (Uncertified)
+- 🤓 **Professional Kanye Nerd** (Uncertified)
 
 
 <h3 align="left">Languages and Tools:</h3>
