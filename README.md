@@ -2,8 +2,8 @@
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Doing..&useDisplayName=true&animated=true&)
 
-<a href="https://about.minoa.cat" About Me>
-<a href="https://bio.minoa.cat" My Bio>
+[About Me](https://about.minoa.cat)
+[My Bio](https://bio.minoa.cat)
 
 <p align="center">
 
@@ -21,8 +21,3 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-
-### •´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•
-![Image](https://minoan.r-o-o-t.net/media/fimg2.png)
-### •´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•
