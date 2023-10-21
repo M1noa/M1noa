@@ -27,10 +27,6 @@
 ### ╰┈┈┈┈┈┈✦
 ### ✨✨✨✨✨✨✨✨✨✨✨✨
 
-### •´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•
-![Image](https://minoan.r-o-o-t.net/media/fimg2.png)
-### •´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•
-
 
 <p align="center">
 <h3 align="center">1 good girl is worth 1000 bitches...BOUND! - Kanye West</h3>
@@ -49,3 +45,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+
+
+### •´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•
+![Image](https://minoan.r-o-o-t.net/media/fimg2.png)
+### •´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•´¨•.¸¸.•
