@@ -3,6 +3,7 @@
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Doing..&useDisplayName=true&animated=true&)
 
 [About Me](https://about.minoa.cat)
+ & 
 [My Bio](https://bio.minoa.cat)
 
 <p align="center">
