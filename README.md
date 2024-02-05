@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1noa&label=Profile%20views&color=0eb46c&style=flat" alt="m1noa" /> </p>
 
-- 🌱 I’m currently learning **Discord.js and Discord.py**
+- 🌱 I’m currently learning **Nothing**
 
 - 📫 How to reach me **minoa@parcoil.com**
 
