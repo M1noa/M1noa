@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1noa&label=Profile%20views&color=0eb46c&style=flat" alt="m1noa" /> </p>
 
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **how to tie my penis in a knot**
 
-- 📫 How to reach me **minoa@parcoil.com**
+- 📫 How to reach me **minoa@minoa.cat**
 
 - 🤓 **Professional Woman**
 
