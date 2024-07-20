@@ -17,11 +17,8 @@
 
 # 
 
-[About Me](https://about.minoa.cat)
-###
-[My Bio](https://bio.minoa.cat)
-###
-[Laggy site hehe](https://l4g.minoa.cat)
+## [About Me](https://about.minoa.cat)
+## [My Linnks](https://bio.minoa.cat)
 
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)
