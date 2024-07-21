@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **how to tie my penis in a knot**
 
-- 📫 How to reach me **minoa@minoa.cat**
+- 📫 How to reach me **github@minoa.cat**
 
 - 🤓 **Professional Woman**
 
