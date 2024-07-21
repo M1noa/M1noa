@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **github@minoa.cat**
 
-- 🤓 **Professional Woman**
+- 👩‍🏫 **Professional Woman**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
