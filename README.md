@@ -17,6 +17,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-# 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)
+##
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Doing..&useDisplayName=true&animated=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=8px&layout=compact&hide=powershell,lua,c%2B%2B,makefile)
