@@ -6,7 +6,7 @@
 
 - 👩‍🏫 **Professional at uhhhhhhhhh uhhhhhhhhhhh uhhhhhh uhhhhhhh uhhhhhhh**
 
-- 💸 **Support me on [ko-fi](https://ko-fi.com/squint)**
+- 💸 **Support me at [ko-fi](https://ko-fi.com/squint) or [paypal](https://paypal.me/m1noa)**
 
 ##
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=1a1c1f&borderRadius=8px&gradient=aaaaaa&hideDiscrim=true&globalName=true&idleMessage=Doing..&useDisplayName=true&animated=true&)
