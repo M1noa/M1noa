@@ -4,7 +4,7 @@
 
 - 📫 Reach me at **github@minoa.cat**
 
-- 👩‍🏫 **Professional at eating dat pussy**
+- 👩‍🏫 **Professional at uhhhhhhhhh uhhhhhhhhhhh uhhhhhh uhhhhhhh uhhhhhhh**
 
 - 💸 **Support me on [ko-fi](https://ko-fi.com/squint)**
 
