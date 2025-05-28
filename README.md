@@ -1,6 +1,6 @@
 ### [♡♡♡](https://minoa.cat)
 
-<img src="https://komarev.com/ghpvc/?username=m1noa&label=Profile%20views&color=0eb46c&style=flat" alt="m1noa" />
+<img src="https://komarev.com/ghpvc/?username=m1noa&label=Profile%20views&color=0eb46c&style=flat" alt="m1noa" /> <-- this is annacurate as i spammed at awhile ago
 
 - reach me at **github@minoa.cat**
 
