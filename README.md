@@ -20,7 +20,7 @@
 ---
 <div align="center">
   
-![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=1a1c1f&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=Coding%20something%20cool..&useDisplayName=true&animated=true)
+![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=141221&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=Coding%20something%20cool..&useDisplayName=true&animated=true)
 
 </div>
 
@@ -28,11 +28,11 @@
 
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&include_all_commits=true&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=12px&hide=css,mdx,batchfile&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&include_all_commits=true&bg_color=141221&hide_border=true&theme=dark&border_radius=12px&hide=css,mdx,batchfile&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1noa&include_all_commits=true&bg_color=1a1c1f&hide_border=true&theme=dark&border_radius=12px&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M1noa&include_all_commits=true&bg_color=141221&hide_border=true&theme=dark&border_radius=12px&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=M1noa&theme=dark&background=1a1c1f&border=ffa1bf&stroke=ffa1bf&ring=ffa1bf&fire=ffa1bf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffa1bf&sideLabels=ffa1bf&dates=ffffff&hide_border=true&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=M1noa&theme=dark&background=141221&border=ffa1bf&stroke=ffa1bf&ring=ffa1bf&fire=ffa1bf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffa1bf&sideLabels=ffa1bf&dates=ffffff&hide_border=true&border_radius=12)
 
 </div>
 
@@ -42,6 +42,6 @@
 
 *"Code is poetry written in logic"*
 
-[![Website](https://img.shields.io/badge/🌐%20Website-minoa.cat-ffa1bf?style=for-the-badge&labelColor=1a1c1f)](https://minoa.cat)
+[![Website](https://img.shields.io/badge/🌐%20Website-minoa.cat-ffa1bf?style=for-the-badge&labelColor=141221)](https://minoa.cat)
 
 </div>
