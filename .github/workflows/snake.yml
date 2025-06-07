@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write # <--- Add this line
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,13 +22,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            # You can also generate a GIF if you prefer, but it's larger:
             # dist/github-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Generate daily snake animation"
-          file_pattern: "dist/*.svg" # Adjust if you generate GIFs or other files
-          # Optional: If you want to commit to a specific branch, add:
+          file_pattern: "dist/*.svg"
           # branch: main # Or your default branch name
