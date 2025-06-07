@@ -18,8 +18,6 @@
 - 💖 **Obsessed with:** Node.js development
 
 ---
-
-## 🎮 Discord Presence
 <div align="center">
   
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=1a1c1f&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=Coding%20something%20cool..&useDisplayName=true&animated=true)
@@ -27,8 +25,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Statistics
 
 <div align="center">
   
