@@ -40,7 +40,7 @@
 
 <div align="center">
 
-*"Code is poetry written in logic"* ✨
+*"Code is poetry written in logic"*
 
 [![Website](https://img.shields.io/badge/🌐%20Website-minoa.cat-ffa1bf?style=for-the-badge&labelColor=1a1c1f)](https://minoa.cat)
 
