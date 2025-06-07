@@ -12,10 +12,10 @@
 
 ## 💫 About Me
 
-- 📧 **Contact:** github@minoa.cat
-- 💬 **Discord:** minoa.cat
-- 💼 **Open for commissions:** Website development, Discord bots, and scripting
-- 💖 **Addicted to:** Node.js
+- 📧 **contact:** github@minoa.cat
+- 💬 **discord:** minoa.cat
+- 💼 **open for commissions:** Website development, discord bots, and scripting
+- 💖 **addicted to:** Node.js
 
 ---
 <div align="center">
