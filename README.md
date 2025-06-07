@@ -37,4 +37,10 @@
 *"Code is poetry written in logic"*
 
 [![Website](https://img.shields.io/badge/🌐%20Website-minoa.cat-ffa1bf?style=for-the-badge&labelColor=17202a)](https://minoa.cat)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 </div>
