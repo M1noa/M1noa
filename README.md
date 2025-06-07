@@ -13,9 +13,9 @@
 ## 💫 About Me
 
 - 📧 **Contact:** github@minoa.cat
-- 💼 **Open for commissions:** Website development, Discord bots, and scripting
 - 💬 **Discord:** minoa.cat
-- 💖 **Obsessed with:** Node.js development
+- 💼 **Open for commissions:** Website development, Discord bots, and scripting
+- 💖 **Addicted to:** Node.js
 
 ---
 <div align="center">
