@@ -10,11 +10,11 @@
 ---
 
 ## 💫 About Me
-- 📧 **contact:** github@minoa.cat
-- 💬 **discord:** minoa.cat
-- 💼 **open for commissions:** Website development, discord bots, and scripting
-- 💖 **addicted to:** Node.js
-- 🐛 *leaning:* Decompilation
+- 📧 **contact:** *github@minoa.cat*
+- 💬 **discord:** *minoa.cat*
+- 💼 **open for commissions:** *Website development, discord bots, and scripting*
+- 💖 **addicted to:** *Node.js*
+- 🐛 **leaning:** *Decompilation*
 
 ---
 
