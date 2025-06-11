@@ -23,7 +23,7 @@
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=17202a&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=doing%20absolutely%20nothing..&useDisplayName=true&animated=true)
 
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&include_all_commits=true&bg_color=17202a&hide_border=true&theme=dark&border_radius=12px&hide=css,mdx,batchfile&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1noa&include_all_commits=true&bg_color=17202a&hide_border=true&theme=dark&border_radius=12px&hide=css,mdx,batchfile&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&layout=compact" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=M1noa&include_all_commits=true&bg_color=17202a&hide_border=true&theme=dark&border_radius=12px&title_color=ffa1bf&text_color=ffffff&icon_color=ffa1bf&show_icons=true" />
 
 
