@@ -20,7 +20,7 @@
 
 <div align="center">
   
-![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=17202a&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=Coding%20something%20cool..&useDisplayName=true&animated=true)
+![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=17202a&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=doing%20absolutely%20nothing..&useDisplayName=true&animated=true)
 </div>
 
 ---
