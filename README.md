@@ -14,6 +14,7 @@
 - 💬 **discord:** minoa.cat
 - 💼 **open for commissions:** Website development, discord bots, and scripting
 - 💖 **addicted to:** Node.js
+- 🐛 *leaning:* Decompilation
 
 ---
 
