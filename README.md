@@ -15,6 +15,7 @@
 - 💼 **open for commissions:** *Website development, discord bots, and scripting*
 - 💖 **addicted to:** *Node.js*
 - 🐛 **leaning:** *Decompilation*
+- 💰 **current:** [squint.cc](https://squint.cc/) & [mcc](https://mcc.minoa.cat/)
 
 ---
 
