@@ -22,6 +22,7 @@
 <div align="center">
   
 ![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=17202a&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=doing%20absolutely%20nothing..&useDisplayName=true&animated=true)
+
 [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=MinoaB&show_user=header&border_radius=16&bg_color=17202a)](https://www.last.fm/user/MinoaB)
 
 ---
