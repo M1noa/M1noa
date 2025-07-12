@@ -21,7 +21,7 @@
 
 <div align="center">
   
-![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?bg=17202a&borderRadius=12px&gradient=ffa1bf&hideDiscrim=true&globalName=true&idleMessage=doing%20absolutely%20nothing..&useDisplayName=true&animated=true)
+[![Discord Presence](https://lanyard.cnrad.dev/api/919656376807092304?theme=dark&bg=17202a&borderRadius=16px&showDisplayName=true&hideTimestamp=true)](https://discord.com/users/919656376807092304)
 [![Last.fm](https://lastfm-recently-played.vercel.app/api?user=MinoaB&show_user=header&border_radius=16&bg_color=17202a&count=3&loved=true&header_style=compact_stats_only&loved_style=3)](https://www.last.fm/user/MinoaB)
 
 ---
