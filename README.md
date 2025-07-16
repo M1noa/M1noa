@@ -1,5 +1,5 @@
-# [♡ minoa ♡](https://minoa.cat)
 <div align="center">
+  <h1><a href="https://minoa.cat">♡ minoa ♡</a></h1>
 
   
 [![Total Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ffa1bf&style=for-the-badge&labelColor=17202a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/m1noa)](https://github.com/m1noa)
