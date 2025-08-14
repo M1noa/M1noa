@@ -38,7 +38,6 @@
 ---
 
 <div align="center">
-"Code is poetry written in logic" -ChatGPT
 
 [![Website](https://img.shields.io/badge/🌐%20Website-minoa.cat-ffa1bf?style=for-the-badge&labelColor=17202a)](https://minoa.cat)
 
