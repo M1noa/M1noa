@@ -2,7 +2,9 @@
 
 > [!WARNING]
 > GitHub falsely suspended me Oct 3, 2025...
+> 
 > it took **106 DAYS** for them to see the ticket... (Jan 18, 2025)
+> 
 > *Avoid using GitHub for archival of your projects!!!!*
 
 ---
