@@ -1,4 +1,4 @@
-# MOVED TO [GITLAB](https://gitlab.com/M1noa]
+# MOVED TO [GITLAB](https://gitlab.com/M1noa)
 
 > [!WARNING]
 > GitHub falsely suspended me Oct 3, 2025...
