@@ -7,7 +7,7 @@
 > 
 > *Avoid using GitHub for archival of your projects!!!!*
 
-> i will continue to use github for social and contabution reasons.. but all repos will be updated on gitab now
+> i will continue to use github for social and contribution reasons.. but all repos will be updated on gitab now
 ---
 
 <div align="center">
