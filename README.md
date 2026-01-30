@@ -22,13 +22,13 @@
 
 ---
 
-## 💫 About Me
-- 📧 **contact:** *github@minoa.cat*
-- 💬 **discord:** *minoa.cat*
-- 💼 **open for commissions:** *Website development, discord bots, and scripting*
-- 💖 **addicted to:** *Node.js*
-- 🐛 **leaning:** *Decompilation* & *GoLang*
-- 💰 **current:** [squint.cc](https://squint.cc/) & [mcc](https://mcc.minoa.cat/)
+- **contact:** *github@minoa.cat*
+- **discord:** *minoa.cat*
+- **commission:** *website development, discord bots, and scripting*
+- **addicted to:** *starting stuff and forgetting about it*
+- **leaning:** *decomp* & *rust*
+- **experience:** *python, go, node, webdev, typescript, rust, unix*
+- **current:** [squint.cc](https://squint.cc/)
 
 ---
 
