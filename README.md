@@ -25,10 +25,9 @@
 - **contact:** *github@minoa.cat*
 - **discord:** *minoa.cat*
 - **commission:** *website development, discord bots, and scripting*
-- **addicted to:** *starting stuff and forgetting about it*
-- **leaning:** *decomp* & *rust*
-- **experience:** *python, go, node, webdev, typescript, rust, unix*
-- **current:** [squint.cc](https://squint.cc/)
+- **leaning:** *swift* & *rust*
+- **experience:** *python, golang, javascript, rust, c++, bash*
+- **current:** [squint.cc](https://squint.cc/)  |  [litter.minoa.cat)(https://litter.minoa.cat)
 
 ---
 
