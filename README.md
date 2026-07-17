@@ -8,6 +8,13 @@
 > *Avoid using GitHub for archival of your projects!!!!*
 
 > i will continue to use github for social and contribution reasons.. but all repos will be updated on gitab now
+
+
+> [!WARNING]
+> I GOT RAIDED BY THE FBI...
+> 
+> a lot of my infastructure is **offline** as they **seized my server*** along with **every other electronic device** they could find
+> i **didn't** do anything wrong i'm **innocent** 
 ---
 
 <div align="center">
