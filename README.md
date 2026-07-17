@@ -13,7 +13,7 @@
 > [!WARNING]
 > I GOT RAIDED BY THE FBI...
 > 
-> a lot of my infastructure is **offline** as they **seized my server*** along with **every other electronic device** they could find
+> a lot of my infastructure is **offline** as they **seized my server** along with **every other electronic device** they could find
 > i **didn't** do anything wrong i'm **innocent** 
 ---
 
