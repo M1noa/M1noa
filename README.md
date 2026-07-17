@@ -34,7 +34,7 @@
 - **commission:** *website development, discord bots, and scripting*
 - **leaning:** *swift* & *rust*
 - **experience:** *python, golang, javascript, rust, c++, bash*
-- **current:** [squint.cc](https://squint.cc/)  |  [litter.minoa.cat)(https://litter.minoa.cat)
+- **current:** [squint.cc](https://squint.cc/)  |  [litter.minoa.cat](https://litter.minoa.cat)
 
 ---
 
