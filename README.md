@@ -14,7 +14,6 @@
 
 <div align="center">
   <h1><a href="https://minoa.cat">ɱinoa</a></h1>
-[GitLab](https://gitlab.com/M1noa)
   
 [![Total Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ffa1bf&style=for-the-badge&labelColor=17202a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/m1noa)](https://github.com/m1noa)
 [![Total Forks](https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ffa1bf&style=for-the-badge&labelColor=17202a&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/m1noa)](https://github.com/m1noa)
