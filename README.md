@@ -1,25 +1,20 @@
-# MOVED TO [GITLAB](https://gitlab.com/M1noa)
-
 > [!WARNING]
 > GitHub falsely suspended me Oct 3, 2025...
-> 
 > it took **106 DAYS** for them to see the ticket... (Jan 18, 2025)
 > 
 > *Avoid using GitHub for archival of your projects!!!!*
 
-> i will continue to use github for social and contribution reasons.. but most repos will primarily be updated on gitab now
-
-
 > [!WARNING]
 > I GOT RAIDED BY THE FBI...
-> 
 > a lot of my infastructure is **offline** as they **seized my server** along with **every other electronic device** they could find
-> i **didn't** do anything wrong i'm **innocent** 
+> i **didn't** do anything wrong i'm **innocent**
+
+
 ---
 
 <div align="center">
   <h1><a href="https://minoa.cat">ɱinoa</a></h1>
-
+[GitLab](https://gitlab.com/M1noa)
   
 [![Total Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ffa1bf&style=for-the-badge&labelColor=17202a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/m1noa)](https://github.com/m1noa)
 [![Total Forks](https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ffa1bf&style=for-the-badge&labelColor=17202a&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/m1noa)](https://github.com/m1noa)
