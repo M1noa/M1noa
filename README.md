@@ -25,9 +25,9 @@
 
 - **contact:** *github@minoa.cat*
 - **discord:** *minoa.cat*
-- **commission:** *website development, discord bots, and scripting*
+- **commission:** *website development, discord bots, scraping, and scripting*
 - **leaning:** *swift*
-- **experience:** *python, golang, javascript, rust, c++, sql, nosql, discord (self)bots, minecraft servers*
+- **experience:** *python, golang, javascript, rust, c++, sql, nosql, discord (self)bots, scraping, minecraft servers*
 - **current:** [squint.cc](https://squint.cc/)  |  [litter.minoa.cat](https://litter.minoa.cat)
 
 ---
